@@ -391,7 +391,7 @@
       "KC_TRNS",
       "KC_COMM",
       "KC_DOT",
-      "KC_TRNS",
+      "C(KC_SLSH)",
       "KC_NO",
       "KC_TRNS",
       "C(KC_UP)",

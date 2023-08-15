@@ -1,7 +1,24 @@
 {
   "name": "Keychron K7 Pro ANSI White",
   "vendorProductId": 875823731,
-  "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+  "macros": [
+    "{KC_LGUI,KC_R}cmd{KC_ENT}",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
   "layers": [
     [
       "KC_ESC",
@@ -270,8 +287,8 @@
       "CUSTOM(11)",
       "CUSTOM(12)",
       "CUSTOM(13)",
-      "KC_TRNS",
-      "KC_TRNS",
+      "A(KC_UP)",
+      "A(KC_DOWN)",
       "KC_TRNS",
       "KC_P7",
       "KC_P8",
@@ -332,7 +349,7 @@
       "KC_TRNS"
     ],
     [
-      "S(KC_GRV)",
+      "KC_TRNS",
       "KC_F1",
       "KC_F2",
       "KC_F3",
@@ -348,7 +365,7 @@
       "KC_TRNS",
       "KC_NO",
       "KC_TRNS",
-      "KC_TRNS",
+      "KC_TAB",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
